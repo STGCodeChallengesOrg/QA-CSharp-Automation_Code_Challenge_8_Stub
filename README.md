@@ -7,4 +7,4 @@ Go to https://www.skiutah.com/
 Verify that each reference to an image displays the image correctly and not a dead image.  Log every page that has a broken image to a text file.  
 
 
-"Refer to the Git_Procedure_Step_By_Step document, which contains detailed instructions for accessing code stubs and submitting completed work from/to GitHub." 
+Refer to the Git Procedure Step By Step document, which contains detailed instructions for accessing code stubs and submitting completed work from/to GitHub.
